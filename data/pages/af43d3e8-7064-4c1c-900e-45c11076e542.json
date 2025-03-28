@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-03-28T16:13:09.933Z",
+  "created_by": "Hbusby",
+  "title": "Seven Poem",
+  "slug": "seven-poem",
+  "updated_at": "2025-03-28T16:13:09.933Z",
+  "updated_by": "Hbusby",
+  "parent": "ae4ac263-ae9f-4d8a-a0e6-1e6a02f0e28d",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "085d7cc7-a541-4888-bf73-e3090138e56d"
+  }
+}
