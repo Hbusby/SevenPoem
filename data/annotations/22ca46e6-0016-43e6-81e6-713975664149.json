@@ -1,5 +1,1103 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 3960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "calming musical introduction"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "cdf3825b-0865-4230-bc2d-4c85fd8d3f3c"
+    },
+    {
+      "start_time": 5,
+      "end_time": 3601,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Seven interlude poem"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Title"
+        }
+      ],
+      "uuid": "32705443-2462-42ac-93a5-cf3bcfcd9944"
+    },
+    {
+      "start_time": 49,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bells"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "ea29aeb9-fd52-4f65-9551-0271a9952c2a"
+    },
+    {
+      "start_time": 58,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bells"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "e692e16a-ef4e-4c97-85f1-a2e03a92112d"
+    },
+    {
+      "start_time": 63,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bar chimes "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "b400f64d-8802-43ff-8707-373700152f36"
+    },
+    {
+      "start_time": 67,
+      "end_time": 72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Natural speak"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Meter",
+          "category": "Form"
+        }
+      ],
+      "uuid": "f40aefbd-048b-4859-a515-135108352ee2"
+    },
+    {
+      "start_time": 67,
+      "end_time": 72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If you wish to romanticize the woman I became"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "4e12257e-605d-40f9-97b3-69bd83afa939"
+    },
+    {
+      "start_time": 68,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Echo"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "d9d238dc-699b-4ba3-889c-899307830abd"
+    },
+    {
+      "start_time": 72,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "f2396c16-09d1-4a48-a53a-96eda0cc9eed"
+    },
+    {
+      "start_time": 75,
+      "end_time": 77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Echo "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "23a225ea-933a-4192-bf34-60bb2d52dcf8"
+    },
+    {
+      "start_time": 75,
+      "end_time": 80,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then, say you'll remember me standing in a nice dress"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "c279aaf4-2396-47a3-82a5-f722b3982f25"
+    },
+    {
+      "start_time": 75,
+      "end_time": 80,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Natural speak"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Meter",
+          "category": "Form"
+        }
+      ],
+      "uuid": "9cd344ef-c5c4-43b9-8877-a7b5f19085d9"
+    },
+    {
+      "start_time": 81,
+      "end_time": 84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Staring at the sunset"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "fa2ae809-4cfa-478e-9ee6-2222c41e6dc4"
+    },
+    {
+      "start_time": 84,
+      "end_time": 86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "ec5d9b38-74b4-45fd-9f56-6ce94f0a2006"
+    },
+    {
+      "start_time": 86,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tonal Shift"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "f6db0929-0bcf-4e5d-88a0-2369940b98c2"
+    },
+    {
+      "start_time": 86,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Or you could begin at the beginning"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "60228eae-3cb6-4fdb-b1ce-18ce13748199"
+    },
+    {
+      "start_time": 92,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Natural Speak"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Meter",
+          "category": "Form"
+        }
+      ],
+      "uuid": "3cc62715-7bc2-4b4f-9f85-cd9b170e278b"
+    },
+    {
+      "start_time": 92,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And in that case"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "68504bd7-6942-44be-a9a2-3a2be2f38718"
+    },
+    {
+      "start_time": 92,
+      "end_time": 96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "crowd noises "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience Sounds",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "7b16446b-26b2-4675-aa40-747b47d128f6"
+    },
+    {
+      "start_time": 92,
+      "end_time": 178,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nature sound effects"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "78048ebe-275e-47b6-802d-074f70e36ddd"
+    },
+    {
+      "start_time": 95,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "bc5ccf58-275a-42c7-9717-2612356025a4"
+    },
+    {
+      "start_time": 99,
+      "end_time": 102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shift in deliveey from casual to dramatic speak"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Meter",
+          "category": "Form"
+        }
+      ],
+      "uuid": "49859eb8-2ee9-4f1d-a4b9-74ea70162af7"
+    },
+    {
+      "start_time": 99,
+      "end_time": 102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Please picture me in the trees"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "2da96cdb-3065-4aeb-b1d5-c11ff71b4c7b"
+    },
+    {
+      "start_time": 102,
+      "end_time": 105,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "65894116-6c91-4fc0-9851-82fd0e25f500"
+    },
+    {
+      "start_time": 105,
+      "end_time": 108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I hit my peak at seven"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "timbre"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "59580b64-6e88-4088-bff7-82c5c8bfd657"
+    },
+    {
+      "start_time": 108,
+      "end_time": 111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "a588b8d5-6b1b-4da7-9712-bf9b1525c40d"
+    },
+    {
+      "start_time": 111,
+      "end_time": 115,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Feet in the swing over the creek"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "amplitude"
+        }
+      ],
+      "uuid": "4c9ab917-21a5-4bd0-880e-4aa91e170e7b"
+    },
+    {
+      "start_time": 115,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "6a4d2e08-bbc1-43e9-8e08-544789aa5070"
+    },
+    {
+      "start_time": 118,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laugh while speaking "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "826676ec-d4f5-45b2-adb6-94a7b07e0ddd"
+    },
+    {
+      "start_time": 118,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was too scared to jump in"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "331d7e85-9add-43f0-befa-61665a1e1d79"
+    },
+    {
+      "start_time": 120,
+      "end_time": 126,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I was high in the sky"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "45106c5c-a19d-4e68-abf1-559b284b900c"
+    },
+    {
+      "start_time": 127,
+      "end_time": 128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With Pennsylvania under me"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "9c7748b4-1cd8-466e-badb-f9b3550f0d2d"
+    },
+    {
+      "start_time": 128,
+      "end_time": 133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "7e1d3c14-fd6d-4425-8fe4-c48e76a02ea4"
+    },
+    {
+      "start_time": 133,
+      "end_time": 137,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Are there still beautiful things?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "tempo"
+        }
+      ],
+      "uuid": "178759dd-684c-4d2c-8482-555e7825bbae"
+    },
+    {
+      "start_time": 137,
+      "end_time": 139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "6856b7cc-dcf6-41ca-8a1a-7bd88da62b52"
+    },
+    {
+      "start_time": 139,
+      "end_time": 141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sweet tea in the summer"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "153cdbb9-63c5-433c-9da3-2db2e05c6a29"
+    },
+    {
+      "start_time": 141,
+      "end_time": 146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "summer/other rhyme  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rhyme",
+          "category": "Form"
+        }
+      ],
+      "uuid": "05766a9e-6ea0-4f1f-a405-2281bb93a6c4"
+    },
+    {
+      "start_time": 142,
+      "end_time": 146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cross your heart, won't tell no other"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "04e5050e-5213-41f4-983a-5ab22b394788"
+    },
+    {
+      "start_time": 143,
+      "end_time": 145,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "crowd noises "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience Sounds",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "6fe41d19-6403-4ce1-ad01-0d66fa5d0df7"
+    },
+    {
+      "start_time": 146,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And though I can't recall your face, I still got love for you"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "d59d7df6-4255-4895-ba69-9373c4383328"
+    },
+    {
+      "start_time": 151,
+      "end_time": 154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "391aaeba-2f6c-421d-b1ea-6e44a4362ba3"
+    },
+    {
+      "start_time": 154,
+      "end_time": 157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Your braids make a pattern"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "pitch"
+        }
+      ],
+      "uuid": "7dd73ff3-5f5b-43e5-a6d7-6a6c5867a5d8"
+    },
+    {
+      "start_time": 157,
+      "end_time": 161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pattern/Saturn rhyme  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rhyme",
+          "category": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "229db019-ff3d-4283-b509-1b765cb56efb"
+    },
+    {
+      "start_time": 158,
+      "end_time": 161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Love you to the Moon and to Saturn"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "pitch"
+        }
+      ],
+      "uuid": "ff8a777e-7220-4113-b055-81b6bc371325"
+    },
+    {
+      "start_time": 161,
+      "end_time": 164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "507e49fe-0ff2-471c-96ea-3742a95b01a8"
+    },
+    {
+      "start_time": 164,
+      "end_time": 169,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Passed down like folk songs"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "a2c82d08-c8b1-482b-b7c6-8ce3763b6073"
+    },
+    {
+      "start_time": 169,
+      "end_time": 171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "09baadae-7810-4dcc-97be-c89797683119"
+    },
+    {
+      "start_time": 169,
+      "end_time": 171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "songs/long rhyme"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rhyme",
+          "category": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "baa89089-cc63-4495-b738-ee97a8d2e2e7"
+    },
+    {
+      "start_time": 171,
+      "end_time": 177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The love lasts so long"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "duration"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "tempo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "pitch"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "amplitude"
+        }
+      ],
+      "uuid": "3da1a094-6dcb-4f77-a613-34fe37392753"
+    }
+  ],
   "set": "Default",
   "event_id": "085d7cc7-a541-4888-bf73-e3090138e56d",
   "source_id": "a4988371-c657-472f-8395-c77727ab23fb"
