@@ -1,0 +1,1 @@
+{"@context":"http://iiif.io/api/presentation/3/context.json","id":"https://Hbusby.github.io/SevenPoem/manifests/collection.json","type":"Collection","label":{"en":["\"Seven\" Poem"]},"items":[{"id":"https://Hbusby.github.io/SevenPoem/manifests/seven-poem.json","type":"Manifest","label":{"en":["Seven Poem"]}}]}
