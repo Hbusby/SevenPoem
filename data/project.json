@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "Hbusby",
+    "is_private": false,
+    "title": "\"Seven\" Poem",
+    "description": "This project analyzes the poem “Seven” by Taylor Swift. Seven is a poem that was first released in 2022. The poem “Seven” reimagines the narrator as a younger version of themselves and how youth is remembered. The poem debuted as a recorded interlude/transition between the Red and Folklore segments in Swift's wildly successful Era’s Tour. The poem was produced to reach a mass audience at a pop culture event. Its origins are essential to the listening experience because of how it was created and how it was meant to be heard. The poem was designed to be heard sonically by millions of people as an interlude, so the sonic elements of this poem are essential, despite being created for the Era’s tour. The poem was removed from the tour after the American leg concluded, and it was not included in the Eras tour film, which featured the entire concert.",
+    "language": "en",
+    "slug": "SevenPoem",
+    "creator": "Hbusby",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-03-28T16:12:33.410Z",
+    "updated_at": "2025-03-28T16:12:33.410Z"
   }
 }
